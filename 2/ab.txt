@@ -1,0 +1,2 @@
+africa 5
+bird 2
